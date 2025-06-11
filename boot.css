@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 9em;
+  background: linear-gradient(to bottom, #6c0101 0%, rgb(0, 0, 0));
+}
+
+#about {
+  padding-top: 5em;
+  background: linear-gradient(to bottom, #000000 0%, #6c0101);
+}
+
+#projects {
+  padding-top: 5em;
+  background: linear-gradient(to bottom, #6c0101 0%, rgb(0, 0, 0));
+}
+
+#contact {
+  padding-top: 5em;
+  background: linear-gradient(to top, #760a0a 0%, #000000);
+}
+
+/* .jumbotron img {
+  border-radius: 50%;
+  border: 5px solid red;
+} */
